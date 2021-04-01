@@ -1,6 +1,7 @@
 var element = document.getElementById("follow");
 var main = document.getElementById("main");
 var mainElement = main.getBoundingClientRect();
+element.style.opacity=0;
 var x = 0;
 var y = 0;
 var z = 0;
